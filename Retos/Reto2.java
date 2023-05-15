@@ -1,4 +1,4 @@
-package Retos;
+package Retos;Retos;
 
 import java.util.Scanner;
 
